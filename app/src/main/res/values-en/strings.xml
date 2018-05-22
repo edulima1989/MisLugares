@@ -6,4 +6,5 @@
     <string name="accion_preferencias">Preferences</string>
     <string name="accion_acerca_de">"About as "</string>
     <string name="accion_salir">Get out</string>
+    <string name="accion_buscar">Search</string>
 </resources>

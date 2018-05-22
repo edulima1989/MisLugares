@@ -18,6 +18,15 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".AcercaDeActivity"
+            android:label="Acerca de ..."
+            android:theme="@android:style/Theme.Dialog"/>
+        <activity android:name=".PreferenciasActivity"
+            android:label="Preferencias" />
+        <activity android:name=".VistaLugarActivity"
+            android:label="Visualizar Lugares" />
+        <activity android:name=".EdicionLugarActivity"
+            android:label="Editar Lugares" />
     </application>
 
 </manifest>
